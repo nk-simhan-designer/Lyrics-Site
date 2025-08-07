@@ -1,0 +1,50 @@
+nav {
+    background-color: black;
+    color: tomato;
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+    padding: 1%;
+}
+
+h1, ul, li {
+    display: inline;
+}
+
+h1:hover {
+    color: red;
+    cursor: pointer;
+}
+
+ul {
+    margin-left: 60%; 
+}
+
+li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.heading {
+    color: darkgoldenrod;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.thumbnail {
+    margin-top: 1%;
+}
+
+.credits {
+    color: darkcyan;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.lyrics1, .lyrics2, .otherlyrics {
+    color: darkolivegreen;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 125%;
+}
+
+.otherlyrics {
+    font-size: 100%;
+    margin-top: 1%;
+}
